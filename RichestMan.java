@@ -58,7 +58,7 @@ public class RichestMan {
         };
 
         System.out.println("highest value"+higestValue);
-//         };
+
     }
 
     
